@@ -1,0 +1,52 @@
+06/10/2014_13:01:53: DEBUG    file logger attached
+06/10/2014_13:01:53: INFO     running step 1 - Step1
+06/10/2014_13:28:09: INFO     running step 2 - Step2
+06/10/2014_14:48:54: DEBUG    file logger attached
+06/10/2014_14:48:54: INFO     deleting previous results (steps 2-3)
+06/10/2014_14:48:54: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_14:48:54: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_14:48:54: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_14:48:54: INFO     running step 2 - Step2
+06/10/2014_19:02:14: DEBUG    file logger attached
+06/10/2014_19:02:14: INFO     deleting previous results (steps 2-3)
+06/10/2014_19:02:14: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_19:02:14: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_19:02:14: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_19:02:14: INFO     running step 2 - Step2
+06/10/2014_19:07:40: DEBUG    file logger attached
+06/10/2014_19:07:40: INFO     deleting previous results (steps 2-3)
+06/10/2014_19:07:40: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_19:07:40: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_19:07:40: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_19:07:40: INFO     running step 2 - Step2
+06/10/2014_19:28:35: DEBUG    file logger attached
+06/10/2014_19:28:35: INFO     deleting previous results (steps 2-3)
+06/10/2014_19:28:35: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_19:28:35: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_19:28:35: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_19:28:35: INFO     running step 2 - Step2
+06/10/2014_19:37:03: DEBUG    file logger attached
+06/10/2014_19:37:03: INFO     deleting previous results (steps 2-3)
+06/10/2014_19:37:03: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_19:37:03: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_19:37:03: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_19:37:03: INFO     running step 2 - Step2
+06/10/2014_23:57:58: DEBUG    file logger attached
+06/10/2014_23:57:58: INFO     deleting previous results (steps 2-3)
+06/10/2014_23:57:58: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+06/10/2014_23:57:58: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+06/10/2014_23:57:58: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+06/10/2014_23:57:58: INFO     running step 2 - Step2
+07/10/2014_01:32:15: DEBUG    file logger attached
+07/10/2014_01:32:15: INFO     deleting previous results (steps 2-3)
+07/10/2014_01:32:15: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+07/10/2014_01:32:15: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+07/10/2014_01:32:15: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+07/10/2014_01:32:15: INFO     running step 2 - Step2
+07/10/2014_12:02:06: DEBUG    file logger attached
+07/10/2014_12:02:06: INFO     deleting previous results (steps 2-3)
+07/10/2014_12:02:06: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/position_data.txt
+07/10/2014_12:02:06: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/temp.fasta
+07/10/2014_12:02:06: DEBUG    deleting /Users/Wes/Desktop/Python_Program/results/2014-10-06_13-01-53/blast.xml
+07/10/2014_12:02:06: INFO     running step 2 - Step2
+07/10/2014_16:38:38: INFO     running step 3 - Step3
